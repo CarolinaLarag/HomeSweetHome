@@ -17,4 +17,4 @@ if nombre == "juan":
     else:
         print("Juan usted no es hombre")
 else:
-    print ("usted no es hombre")
+    print ("usted no es juan")
